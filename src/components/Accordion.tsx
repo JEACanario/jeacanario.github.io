@@ -21,7 +21,7 @@ export function Accordion() {
       textPrimary: "Book Journaling App. Tracking notes, progress and insights while reading. The concept is to help readers retain more information and meta-information from their experience of reading of a book. Can be expanded to other forms of long-form content.",
       textSecondary: "Single Page Application built with React 19, Vite, HeroUI component library and Tailwind.\n The main goal was to explore the possibilities of modern web development and gain a sense for state management while creating a functional user interface.\n Future developments could include AI Speech Recognition for note taking and Book Report Generation.\n Currently deployed on GitHub Pages. Find it @ coconut.spot or https://www.coconut.spot \n Please allow some time for the backend API to spin up if it's the first visit of the day - I'm using a free-tier Azure plan for hosting.",
       link: "https://github.com/JEACanario/coconut-react-heroui-front-end",
-      website: "https://www.coconut.spot",
+      website: "http://www.coconut.spot",
     },
     {
       imageSrc: "/images/Coconut-working.png",
@@ -41,6 +41,16 @@ export function Accordion() {
 
       link: "https://github.com/JEACanario/JEACanario.github.io",
       website: "https://jeacanario.github.io",
+    },
+    {
+      imageSrc: "/images/bikepass.png",
+      imageAlt: "Bike Pass",
+      title: "Bicycle Passport",
+      textPrimary: "Web App for Online Authenticity Validation of Bicycles, Bicycle Components, Maintenance Logs and Rides with a light Social Component via sharing of Bicycle Details and Ride sign-up. Developed from concept to deployment in a team of 4 using Agile methodologies.",
+      textSecondary: " Developed over two weeks as part of a Web Application Development Bootcamp final project.\n Ruby on Rails  using Active Records to interface towards a SQL database on the backend, HTML and SCSS with a sprinkling of JavaScript  on front-end.\n Unfortunately currently not being hosted.",
+
+      link: "https://github.com/NunoRVVS/bicycle_passport",
+     
     },
   ];
 
