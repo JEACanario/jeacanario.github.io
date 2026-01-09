@@ -30,7 +30,7 @@ export function Accordion() {
       textPrimary: "Coconut Backend service. RESTful API handling user authentication, book data management, note storage and other backend functionalities for the Coconut Journaling App.",
       textSecondary: "C# ASP.Net Core 9 Web API. Currently deployed to Azure and updating via GitHub Actions. \n MVC structured, utilizing Entity Framework for database interface with a PostgreSQL Server and Identity Framework for user authentication and authorization. \n The intention behind the project was to focus on creating a scalable backend service to support the Coconut Frontend application while allowing me to learn and experiment with backend technologies.",
       link: "https://github.com/JEACanario/coconut-asp-dotnet-back-end",
-      website: "https://coconut.spot",
+      website: "http://coconut.spot",
     },
     {
       imageSrc: "/images/hp.png",
